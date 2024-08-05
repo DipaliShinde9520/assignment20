@@ -28,7 +28,7 @@ h1
 
 .box-container1
 {
-    background-color: plum;
+    background-color: rgb(220, 147, 220);
     height: 300px;
     width: 1200px;
     display: flex;
