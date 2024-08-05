@@ -1,0 +1,318 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1
+{
+    padding: 0px;
+    margin: 0px;
+    text-align:center ;
+}
+.box
+{
+    background-color:pink;
+    height: 250px;
+    width: 220px;
+    margin: 20px;
+    border: solid 2px purple;
+
+}
+
+.img
+{
+    height: 200px;
+    width: 220px;
+}
+
+.box-container1
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.box-container2
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction:row-reverse;
+    margin-bottom: 10px;
+}
+
+.box-container3
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin-bottom: 10px;
+}
+
+.box-container4
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-bottom: 10px;
+}
+
+.box-container5
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.box-container6
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.box-container7
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+.box-container8
+{
+    background-color: plum;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.box-container9
+{
+    background-color: plum;
+    height: 350px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    align-items: start;
+}
+
+.box-container10
+{
+    background-color: plum;
+    height: 350px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    align-items: end;
+}
+
+.box-container11
+{
+    background-color: plum;
+    height: 350px;
+    width: 1200px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+
+
+.box-container12
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.box-container13
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction:column;
+    margin-bottom: 10px;
+}
+
+.box-container14
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-bottom: 10px;
+}
+
+.box-container15
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-bottom: 10px;
+}
+
+.box-container16
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.box-container17
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.box-container18
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+.box-container19
+{
+    background-color: plum;
+    height: 1200px;
+    width: 300px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.box-container20
+{
+    background-color: plum;
+    height: 1250px;
+    width: 400px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    align-items: start;
+}
+
+.box-container21
+{
+    background-color: plum;
+    height: 1250px;
+    width: 400px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    align-items: end;
+}
+
+.box-container22
+{
+    background-color: plum;
+    height: 1250px;
+    width: 400px;
+    display: flex;
+    border: solid 2px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
